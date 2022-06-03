@@ -1,6 +1,0 @@
-cd repo
- git init
- git add .
- git commit -m "My first project"
- git remote add origin https://github.com/user/repository.git
- git push -u origin master
