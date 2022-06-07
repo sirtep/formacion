@@ -1,0 +1,17 @@
+div {
+    margin: 15px;
+}
+
+div.primero {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    float: right;
+}
+
+div.segundo {
+    width: 400px;
+    height: 150px;
+    background-color: blue;
+    clear: right;
+}
