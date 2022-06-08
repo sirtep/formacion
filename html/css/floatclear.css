@@ -1,0 +1,27 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: solid 3px black;
+    margin: 5px;
+    text-align: center;
+    font-size: 5em;
+}
+
+.box-1 {
+    background-color: red;
+}
+
+.box-2 {
+    background-color: yellow;
+    float: right;
+}
+
+.box-3 {
+    background-color: green;
+    float: right;
+    width: 95%;
+}
+
+.box-4 {
+    background-color: blue;
+}
