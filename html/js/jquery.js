@@ -6,4 +6,7 @@ if (parrafos.length == 0) {
     parrafos[parrafos.lenght - 1].style.color = 'blue';
 }
 
-document.getElementById("java").checked = true;
+function sampleClick() {
+    varbtnX = document.getElementById("btn");
+    btnX.disabled = true;
+}
