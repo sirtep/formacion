@@ -1,0 +1,24 @@
+.contenedor-3cols {
+    word-wrap: break-word;
+    font-size: 1.5rem;
+    text-align: justify;
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px;
+    line-height: 1.5em;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 20px;
+    -webkit-column-rule: 2px solid #ff00ff;
+    -moz-column-count: 3;
+    -moz-column-gap: 20px;
+    -moz-column-rule: 2px solid #ff00ff;
+    column-count: 3;
+    column-gap: 20px;
+    column-rule: 2px solid #ff00ff;
+}
+
+.contenedor-3cols h4 {
+    -webkit-column-span: all;
+    -moz-column-span: all;
+    column-span: all;
+}
